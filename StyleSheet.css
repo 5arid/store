@@ -1,7 +1,7 @@
 ﻿        @font-face
         {
             font-family: Font;
-            src: url("https://cdn.jsdelivr.net/gh/molaeiali/ir-standard-fonts@master/iryekan.ttf");
+            src: url(IRYekan.ttf);
         }
         
         html
